@@ -1,6 +1,0 @@
-
-
-ACTUALIZACIÓN FINAL
-- Se agregó botón y sección de Mesa de Regalos Liverpool.
-- Enlace: https://mesaderegalos.liverpool.com.mx/milistaderegalos/60015115
-- Se agregaron metadatos Open Graph para vista previa en WhatsApp.
